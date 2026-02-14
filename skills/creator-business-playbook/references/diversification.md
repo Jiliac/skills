@@ -36,7 +36,7 @@ Stay majority shareholder in all ventures. Diversification provides a financial 
 - **Partnership structure**: intentionally locked -- no exit clause forces both parties to find compromises
   - "If we can separate easily, it's too easy to walk away. I prefer 'survive or die together' for some projects."
   - Forces solution-finding over relationship-ending
-- Launched in 50 cities simultaneously via Taster's dark kitchen network
+- Available across ~50 cities via Taster's existing dark kitchen network
 - Key concern #1: food hygiene -- "must be clinical, before taste even matters"
 - Province advantage: less competition in delivery platforms, but validated by Parisian palates
 - Revenue model: delivery platforms (Uber Eats, Deliveroo) + potential future physical restaurants
@@ -51,11 +51,7 @@ Stay majority shareholder in all ventures. Diversification provides a financial 
 
 ## Entrepreneurial DNA
 
-- Parents were entrepreneurs in electromenager (home appliances/kitchens)
-- Survived the 2008 financial crisis (nearly lost everything)
-- Father's advice: "Never be an entrepreneur" (ironic) + "Always have a war chest"
-- In the 1990s, entrepreneurship without family precedent was nearly unthinkable in France
-- The "apple doesn't fall far from the tree" -- grew up seeing the entrepreneur lifestyle firsthand
+Amixem's entrepreneurial mindset traces to parents who ran an electromenager (kitchens and home appliances) business and survived the 2008 crisis. For full details, see [mindset-and-longevity.md](mindset-and-longevity.md#entrepreneurial-dna).
 
 ## Diversification Strategy Summary
 

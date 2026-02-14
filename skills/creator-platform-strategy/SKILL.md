@@ -94,15 +94,18 @@ Be regular to learn from mistakes faster, NOT to please the algorithm. YouTube n
 | Spotify       | Early stage         | Unknown              | Low         |
 | Netflix/Prime | Production deals    | Low (lose control)   | High        |
 
-## Longevity and Mental Health
+## Mental Health by Platform
 
-- "Durability over Kaizen" -- don't try to beat your last video every time.
 - YouTube Studio shows positive comments first -- intentional design to reduce anxiety.
 - Twitch is worst for mental health: can't stop, can't pre-produce, constant guilt.
-- Province/remote life is viable and protective (Angers works as well as Paris for YouTube).
 - Sport as time dilation: perceived 25 min passed, only 10 -- "you found how to slow down time."
 
-For detailed longevity strategies, see [references/longevity-and-economics.md](references/longevity-and-economics.md).
+For detailed mental health insights, see [references/longevity-and-mental-health.md](references/longevity-and-mental-health.md).
+
+## See Also
+
+- For content creation strategy (concept validation, algorithm, format): see `youtube-content-strategy` skill
+- For business operations (revenue, sponsors, team, production): see `creator-business-playbook` skill
 
 ## Source
 

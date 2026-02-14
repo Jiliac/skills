@@ -21,45 +21,20 @@ After 10 years of YouTube (2012-2022), a critical mindset shift:
 
 ## War Chest Philosophy
 
-From father (entrepreneur in electromenager who survived 2008 crisis):
+From father (entrepreneur in electromenager -- kitchens and home appliances -- who survived 2008 crisis):
 
 - "Have a war chest" -- 4-6 months of runway minimum
 - When you recruit someone who relocated for the job, you owe them stability
 - Annual sponsor contracts pre-signed = guaranteed runway even if market crashes
 - Covid validated this approach: sponsors with physical retail disappeared overnight
 
-## Creative Process & Avoiding Burnout
+### Entrepreneurial DNA
 
-### Ideation Retreats
-
-- 2-day solo retreats at the seaside
-- Cut all notifications, all social media
-- Watch series, consume inspiration, let ideas percolate
-- Ideas accumulate in a note over 3-4 months, then get shaped during retreats
-
-### The 3-Week Filter
-
-- Write 10 concepts in a burst of enthusiasm
-- Wait 2-3 weeks
-- Only 4-5 survive the cooling period
-- "It hurts at the time of writing to think I'll find this stupid in 3 weeks. But I do."
-- Pre-filter before sharing with production team
-
-### Planning Rhythm
-
-- Plan 6 months ahead
-- First 2-3 months locked in
-- Remaining months more flexible
-- Production team asks about later concepts; if you're dragging your feet, it's a signal
-
-## Time as the Ultimate Constraint
-
-The primary creative limit is not money but time:
-
-- Never travel more than 5 days for a shoot (1 day travel, 1 day setup/teardown, 2-3 days filming)
-- Protect work-life balance (has children)
-- Guilt about "non-productive" time is real but counterproductive
-- Watching a series for inspiration feels like slacking but is the most important work
+- Parents were entrepreneurs in electromenager (kitchens and home appliances)
+- Survived the 2008 financial crisis (nearly lost everything)
+- Father's advice: "Never be an entrepreneur" (ironic) + "Always have a war chest"
+- In the 1990s, entrepreneurship without family precedent was nearly unthinkable in France
+- The "apple doesn't fall far from the tree" -- grew up seeing the entrepreneur lifestyle firsthand
 
 ## On Bad Buzz and Resilience
 

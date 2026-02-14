@@ -1,16 +1,10 @@
 # Format Strategy
 
-Detailed guidance on horizontal vs vertical content, second channels, and audience dynamics.
-
-## Horizontal vs Vertical: Two Separate Worlds
-
-The audiences are almost completely disjoint:
-
-- **Subscribers gained via Shorts will not watch long-form**, and vice versa.
-- **Tibo InShape case study**: #1 French YouTuber by subscriber count, gained primarily through Shorts. His horizontal (long-form) view counts do not scale proportionally with his subscriber base. Proof that Shorts subs != long-form audience.
-- **Biggest subscriber gainers globally are vertical-first creators**. The conversion to horizontal is not automatic and requires deliberate effort.
+Detailed guidance on format choices, second channels, and content economics.
 
 ## When to Use Vertical (Shorts)
+
+Shorts serve as a creative outlet for concepts that don't warrant full production:
 
 - Behind-the-scenes content (set construction, crew moments)
 - Concepts that are inherently short: a single experience, a quick gag, a reaction
@@ -40,14 +34,14 @@ Do NOT open a second channel for:
 - Overflow content
 - "Just because other creators have one"
 
-## Long-Form Economics
+## Long-Form Economics as a Content Decision
 
-Long-form content (45min-1h+) earns more per video than short viral hits (15min), even with fewer views:
+Long-form content (45min-1h+) earns more per video than short viral hits (15min), even with fewer views. This matters for content planning:
 
-- More mid-roll ad break slots
-- Higher taux de completion (completion rate) drives revenue
+- More mid-roll ad break slots reward deeper storytelling
+- Higher completion rates drive revenue -- which means the content itself must sustain attention
 - Documentaries at 1h can outperform entertainment clips at 15min financially
-- YouTube rewards watch time, not just clicks
+- YouTube rewards watch time, not just clicks -- a direct incentive to invest in longer, richer narratives
 
 ## Acquisition vs Retention Trade-off
 

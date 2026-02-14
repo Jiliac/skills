@@ -53,7 +53,7 @@ Stay majority shareholder in all ventures. Diversification provides financial sa
 
 | Decision                        | Guidance                                                                                                                                     |
 | ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| How long should videos be?      | Longer = more ad breaks = more revenue. Optimize for completion rate, not view count.                                                        |
+| How long should videos be?      | Longer = more ad breaks = more revenue per video.                                                                                            |
 | Freelancers or permanent staff? | CDI (permanent contracts) for core crew. Builds loyalty, enables province recruiting.                                                        |
 | Paris or province?              | Province for cost arbitrage and independence. Accept the guest logistics trade-off.                                                          |
 | One video at a loss?            | Fine -- profitable videos subsidize passion projects across the year.                                                                        |
@@ -70,4 +70,8 @@ For detailed guidance on specific topics:
 - **Production & Facilities**: See [references/production-and-facilities.md](references/production-and-facilities.md)
 - **Diversification**: See [references/diversification.md](references/diversification.md)
 - **Mindset & Longevity**: See [references/mindset-and-longevity.md](references/mindset-and-longevity.md)
-- **YouTube Platform Tactics**: See [references/youtube-tactics.md](references/youtube-tactics.md)
+
+## See Also
+
+- For content creation strategy (concept validation, algorithm, format): see `youtube-content-strategy` skill
+- For platform selection (where to publish, H/V split, platform economics): see `creator-platform-strategy` skill

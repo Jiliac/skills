@@ -10,7 +10,6 @@ Two revenue streams, both essential:
    - Post-rolls (after video)
    - Key insight: longer videos = more mid-roll slots = higher per-video revenue
    - A 1h documentary earns more than a 15min video even with fewer total views
-   - Completion rate and watch time matter more than raw view count
 
 2. **Integrated Brand Sponsorships** -- creator reads sponsor segment in-video
    - Transparent, assumed, explained to audience ("merci a notre partenaire X")

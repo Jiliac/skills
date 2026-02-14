@@ -26,7 +26,7 @@ Detailed analysis of non-YouTube platforms for content creators.
 
 - Creators who want community-first, revenue-second approach.
 - People comfortable with gaming or live formats.
-- Samuel Etienne as rare example of an older creator (journalist) thriving on Twitch by reading newspapers live.
+- Samuel Etienne (traditional TV journalist who crossed over) as rare example of an older creator thriving on Twitch by reading newspapers live.
 - Not ideal for creators who value time flexibility or work-life balance.
 
 ### Comparison to YouTube
@@ -58,7 +58,7 @@ Detailed analysis of non-YouTube platforms for content creators.
 
 ### Disney+
 
-- Kaizen (Inoxtag's Everest documentary) on Disney+ as example of successful crossover.
+- _Kaizen_ (Inoxtag's Everest documentary, named after the Japanese philosophy of continuous improvement) on Disney+ as example of successful crossover.
 - Works when the project has genuine cinematic scale that justifies the platform.
 
 ### Key Principle
