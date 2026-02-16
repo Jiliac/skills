@@ -65,9 +65,9 @@ See [frameworks.md](references/frameworks.md) for timing breakdowns and structur
 
 ## Workflow
 
-### Step 1: Assess inputs
+### Step 1: Assess inputs + validate topic
 
-Confirm topic, platform, production style. Identify the single takeaway the viewer should remember.
+Confirm topic, platform, production style. Identify the single takeaway the viewer should remember. Validate the topic against Jenny Hoyos's 4 Criteria (Novelty, Uncertainty, Knowledge Gaps, Complexity) — see [frameworks.md](references/frameworks.md). If the topic fails on Novelty or Uncertainty, reframe the angle before proceeding.
 
 ### Step 2: Select framework + duration
 
@@ -83,15 +83,15 @@ Specify simultaneously: what the viewer SEES (visual direction), READS (text ove
 
 ### Step 4: Write the full annotated script
 
-Use the 6-column format with header block. Populate every column for every time segment. Visual changes every 2–4s. Pattern interrupts every 5–8s. Voiceover at 150–170 WPM for educational content.
+Use the 6-column format with header block. Populate every column for every time segment. Visual changes every 2–4s. Pattern interrupts every 5–8s. Voiceover at 140–170 WPM for educational content.
 
 See [script-format.md](references/script-format.md) for column definitions and annotation vocabulary.
 
 ### Step 5: Add CTA + ending
 
-Default to soft CTA ("Save this," "Follow for more"). Place a mid-roll CTA at ~50% and end CTA in final 3–5s. For TikTok: design a loop-friendly ending (no "in conclusion"). Match CTA to platform norms.
+Every CTA must be dual-delivered: spoken + text overlay simultaneously. Place a mid-roll CTA at ~50% (not all viewers reach the end) and an end CTA in final 3–5s. Structure content to be genuinely save-worthy (lists, frameworks, steps) — save-baiting only works if the content earns it. For TikTok: design a loop-friendly ending (no "in conclusion"). Match CTA to platform norms.
 
-See [platform-guide.md](references/platform-guide.md) for platform-specific CTA norms.
+See [platform-guide.md](references/platform-guide.md) for CTA strategy, comment-driving formats, and platform-specific norms.
 
 ### Step 6: Write posting metadata
 
@@ -138,7 +138,8 @@ Present each script as:
 **Cross-post notes:** [adjustments for other platforms, if applicable]
 
 **Word count (voiceover):** [N words]
-**Estimated completion rate signal:** [based on length + structure]
+**Reading level:** [grade level — target 5th grade or below]
+**Pattern interrupts:** [N interrupts across Xs — one every ~Ys]
 ```
 
 ## Anti-Patterns (never do these)

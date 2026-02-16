@@ -2,6 +2,17 @@
 
 8 structures for 15–90 second educational/thought-leadership videos. Every framework follows the meta-pattern: **hook → build → payoff**. Variation is in how tension is created and resolved.
 
+## Topic Validation (before choosing a framework)
+
+Jenny Hoyos's 4 Criteria of a Great Idea — use to validate the topic before scripting:
+
+1. **Novelty**: Is this a fresh angle? Even familiar topics need a new entry point.
+2. **Uncertainty**: Does the viewer genuinely not know the answer? If the outcome is obvious, there's no reason to keep watching.
+3. **Knowledge Gaps**: Does your audience have a gap between what they know and what they need to know? The gap creates pull.
+4. **Complexity**: Is there enough substance to fill the duration without padding? Too simple = stretch. Too complex = confusion.
+
+A topic that scores well on all four earns attention naturally. If it fails on Novelty or Uncertainty, reframe the angle before scripting.
+
 ## Hook → Tension → Payoff (HTP) — default
 
 The foundational structure. Best for counterintuitive insights and thought-leadership takes.

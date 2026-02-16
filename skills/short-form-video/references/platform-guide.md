@@ -30,15 +30,56 @@ Watch time and completion rate are the #1 signal on all three platforms. Beyond 
 
 **Instagram Reels**: 3–5 hashtags. Shifted from discovery to context verification — algorithm uses them to confirm content category, not as primary discovery.
 
-## CTA Norms by Platform
+## CTA Strategy
 
-**TikTok**: Subtle, conversational. "Save this" is the dominant CTA (saves = high-weight signal). "Follow for Part 2" is described as one of the most effective CTAs. Comment-driving questions work well (shares > comments > likes).
+### Dual Delivery (Non-Negotiable)
+
+Every CTA must be delivered through both channels simultaneously:
+
+- **Spoken**: voiceover/on-camera delivers the CTA verbally
+- **Text overlay**: reinforces on screen at the same moment
+
+Single-channel CTAs underperform. The text overlay catches muted viewers; the spoken word catches those not reading overlays.
+
+### Placement: Mid-Roll + End-Roll
+
+- **Mid-roll CTA (~50% mark)**: Often outperforms end-roll because not all viewers reach the end. Embed naturally — "Save this for later" mid-explanation, not as an interruption.
+- **End-roll CTA (final 3–5s)**: For viewers who watched to completion — highest-intent audience. Stronger ask acceptable here.
+- Always deliver value before any CTA. Premature asks = swipe-away.
+
+### Platform-Specific CTAs
+
+**TikTok**: Subtle, conversational. "Save this" is the dominant CTA (saves = high-weight signal). "Follow for Part 2" is one of the most effective CTAs. Comment-driving formats work well (shares > comments > likes):
+
+- Open-ended questions: "What would you add?"
+- Poll-style: "Which one are you — A or B?"
+- Debate starters: "Agree or disagree?"
+- Experience sharing: "Has this happened to you?"
 
 **YouTube Shorts**: "Subscribe" is the default CTA. Link to long-form content when applicable. Subscriptions + replays are the highest-weight engagement.
 
 **Instagram Reels**: "Send this to a friend" / "Share this" drives DM sends — the single strongest signal per Mosseri (January 2025). Save-baiting also effective.
 
-**Cross-post default**: Use platform-appropriate CTA. If scripting once: use "Save this" (works everywhere), add platform-specific note in EDIT NOTES column.
+**Cross-post default**: Use "Save this" (works everywhere), add platform-specific CTA swap in EDIT NOTES column.
+
+### Save-Baiting as a Structural Decision
+
+Making content genuinely save-worthy is a scripting decision, not just a CTA phrase. Structure the content itself to be reference-worthy:
+
+- **Lists and frameworks** — "3 steps to..." inherently earns saves
+- **Step-by-step processes** — viewers save to revisit later
+- **Templates and formulas** — actionable formats viewers want to reuse
+- **Specific numbers/stats** — concrete data is save-worthy; vague advice is not
+
+If the content isn't structured to be save-worthy, "Save this" as a CTA will underperform.
+
+### Bio Link Strategy
+
+25–40% higher conversion with optimized link-in-bio pages vs. raw URLs.
+
+- Limit to 5–8 links maximum (more = decision paralysis)
+- Top link = current campaign/priority
+- Reference in CTAs: "Link in bio" (Instagram/TikTok) but never as the primary CTA — always pair with an in-platform action first
 
 ## Captions & Safe Zones
 

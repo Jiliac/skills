@@ -94,6 +94,32 @@ Music sits **-5 to -25 dB** below voice. Silence ≠ no audio.
 
 **Hybrid**: Mark transitions explicitly: `[CUT TO B-ROLL: montage of ...]`, `[RETURN TO TALKING HEAD]`, `[FULL SCREEN GRAPHIC: stat card]`. B-roll covers 40–60% of video.
 
+## Complete Example: PAS Framework, 30 Seconds, Hybrid Style
+
+```
+Title: Why Your Cold Emails Get Ignored
+Platform: Cross-post
+Framework: PAS
+Duration: 30s
+Style: Hybrid (talking head + B-roll)
+Aspect Ratio: 9:16
+```
+
+| TIME      | VISUAL                                                          | VOICEOVER                                                                                             | TEXT OVERLAY                                                                                                       | AUDIO/SFX                                             | EDIT NOTES                                             |
+| --------- | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------- | ------------------------------------------------------ |
+| 0:00–0:03 | MCU TALKING HEAD — OC, leaning in, urgent expression            | "Your cold emails are getting ignored — and it's not because of your offer."                          | **"Your cold emails are getting IGNORED"** [CENTER] (POP) [BOLD "IGNORED", COLOR: RED] IN @ 0:00 HOLD 3s           | SFX: NOTIFICATION PING / MUSIC IN: TENSE LO-FI, UNDER | JUMP CUT into frame. Hook in 1.5s. Captions burned in. |
+| 0:03–0:07 | CUT TO: B-ROLL — CU laptop screen, unread inbox. SLOW PAN.      | (V.O.) "Most cold emails start with 'Hi, my name is' and talk about the sender for three paragraphs." | **"Hi, my name is..."** [CENTER] (TYPEWRITER) [ITALIC, GRAY] IN @ 0:03 OUT @ 0:06                                  | SFX: TYPING CLICKS, soft                              | B-roll: unread emails. Color grade: cool/desaturated.  |
+| 0:07–0:12 | SMASH CUT TO: MCU TALKING HEAD — OC, frustrated gesture         | "Nobody cares. They saw zero relevance and deleted it in two seconds."                                | **"Zero relevance = DELETE"** [CENTER] (SHAKE) [BOLD, RED] IN @ 0:09 HOLD 3s                                       | SFX: ERROR BUZZ / MUSIC: TENSION BUILDS               | PUNCH IN on "Nobody cares." JUMP CUTS between phrases. |
+| 0:12–0:17 | CUT TO: B-ROLL — OVERHEAD phone, finger swiping/deleting emails | (V.O.) "They get 50 of these a day. Yours looks exactly like the other 49."                           | **"50 emails/day"** [UPPER] (SLIDE L) → **"Yours = #50"** [CENTER] (POP) [YELLOW] IN @ 0:14                        | SFX: WHOOSH per swipe                                 | Speed ramp swiping to 1.5×. AGITATION beat.            |
+| 0:17–0:25 | SMASH CUT TO: MS TALKING HEAD — OC, calm confidence             | "Here's the fix. First line: their pain point. Second line: proof you solve it. That's it."           | **"Lead with THEIR problem"** [CENTER] (POP) IN @ 0:17 → **"1. Pain point"** → **"2. Proof"** (SLIDE R, staggered) | SFX: DING at "fix" / MUSIC: SHIFTS UPBEAT             | Widen to MS for contrast. Music pivot = SOLUTION.      |
+| 0:25–0:30 | CU TALKING HEAD — OC, direct eye contact, nod                   | "Your email is a mirror, not a megaphone. Save this."                                                 | **"Mirror, not megaphone"** [CENTER] (POP) IN @ 0:25 → **"SAVE"** [L3] (FADE) IN @ 0:28                            | MUSIC OUT / SFX: SPARKLE                              | FREEZE FRAME 0.5s. Loop-friendly ending.               |
+
+**Caption:** Most cold emails fail in the first line. Not because of the offer — because of the angle. Lead with their problem, not your pitch. (Save for your next outreach campaign)
+
+**Hashtags:** #coldemail #salesstrategy #b2bsales #outreach
+
+**Word count:** 78 words | **Reading level:** 4th grade | **Pattern interrupts:** 6 across 30s (one every ~5s)
+
 ## Word Count Guidelines
 
 | Duration | Voiceover words | Educational pace |

@@ -45,6 +45,16 @@ vidIQ's 3-part framework — all three fire simultaneously in the first 1–3 se
 
 Test: watch your video muted — does it hook? Listen without watching — does it hook? If either works alone, the combined effect will be powerful (Brandefy).
 
+## George Blackman's Hook Formula (Educational Content)
+
+**Target → Transformation → Stakes** — specifically designed for educational/thought-leadership hooks:
+
+1. **Target**: Who is this for? Self-identify the viewer in the first words. ("If you're sending cold emails...")
+2. **Transformation**: What will they gain or change? The promised outcome. ("...here's how to 3× your reply rate...")
+3. **Stakes**: Why now? What's at risk if they scroll? ("...before your pipeline dries up.")
+
+More specific than general curiosity hooks. Works especially well for niche educational content where the audience self-selects. Combine with the 3-channel system: Target in text overlay, Transformation spoken, Stakes implied visually.
+
 ## Proven Hook Phrases
 
 For educational/thought-leadership content:
