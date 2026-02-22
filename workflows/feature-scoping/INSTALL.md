@@ -42,10 +42,10 @@ Create the file `<target-project>/.claude/commands/bmad/custom/workflows/feature
 
 ```markdown
 ---
-description: 'Scope, estimate, and prioritize a batch of features against an existing codebase'
+description: "Scope, estimate, and prioritize a batch of features against an existing codebase"
 ---
 
-IT IS CRITICAL THAT YOU FOLLOW THIS COMMAND: LOAD the FULL @_bmad/custom/workflows/feature-scoping/workflow.md, READ its entire contents and follow its directions exactly!
+IT IS CRITICAL THAT YOU FOLLOW THIS COMMAND: LOAD the FULL @\_bmad/custom/workflows/feature-scoping/workflow.md, READ its entire contents and follow its directions exactly!
 ```
 
 This is what makes `/feature-scoping` available as a slash command in Claude Code. Without it, the workflow is registered in BMAD but not exposed to the IDE.

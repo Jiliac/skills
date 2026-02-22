@@ -1,10 +1,10 @@
 ---
-name: 'step-05-synthesis'
-description: 'Compile synthesis from all per-feature files into the main report'
+name: "step-05-synthesis"
+description: "Compile synthesis from all per-feature files into the main report"
 
-nextStepFile: './step-06-completion.md'
-outputFile: '{output_folder}/scoping-report-{project_name}.md'
-featuresDir: '{output_folder}/features'
+nextStepFile: "./step-06-completion.md"
+outputFile: "{output_folder}/scoping-report-{project_name}.md"
+featuresDir: "{output_folder}/features"
 ---
 
 # Step 5: Synthesis
@@ -57,6 +57,7 @@ To read all per-feature files and compile a synthesis section — summary table,
 ### 1. Load All Feature Data
 
 Read every file in `{featuresDir}`. Extract from each:
+
 - Feature name
 - Estimate: optimistic / expected / pessimistic
 - Dependencies
@@ -70,12 +71,13 @@ Compile the estimation summary table:
 
 "**Estimation Summary**
 
-| # | Feature | Expected (days) | Range | Confidence | Dependencies |
-|---|---------|-----------------|-------|------------|-------------|
-| 1 | [name] | [N] | [opt]-[pess] | [High/Medium/Low] | [list] |
-| ... | ... | ... | ... | ... | ... |
+| #   | Feature | Expected (days) | Range        | Confidence        | Dependencies |
+| --- | ------- | --------------- | ------------ | ----------------- | ------------ |
+| 1   | [name]  | [N]             | [opt]-[pess] | [High/Medium/Low] | [list]       |
+| ... | ...     | ...             | ...          | ...               | ...          |
 
 **Totals:**
+
 - Expected: [N] days
 - Range: [opt total]-[pess total] days"
 
@@ -98,11 +100,13 @@ Based on dependencies and priorities, recommend a build order:
 Provide options for tighter timelines:
 
 "**If timeline is tight:**
+
 - **Cut [feature]** — saves [N] days, impact: [what you lose]
 - **Reduce scope of [feature]** — drop [specific FRs], saves [N] days
 - **Defer [feature]** to phase 2 — [reason it can wait]
 
 **If budget allows more:**
+
 - **Add [killed feature back]** — [N] additional days, value: [what you gain]"
 
 ### 5. Open Questions
@@ -110,6 +114,7 @@ Provide options for tighter timelines:
 List unresolved items for the client:
 
 "**Open Questions:**
+
 - [Question about a feature's scope or priority]
 - [External dependency that needs confirmation]
 - [Assumption that should be validated with stakeholders]"

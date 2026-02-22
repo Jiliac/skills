@@ -1,14 +1,14 @@
 ---
-name: 'step-04-architecture-estimation'
-description: 'Analyze architecture delta and produce estimates for each feature individually'
+name: "step-04-architecture-estimation"
+description: "Analyze architecture delta and produce estimates for each feature individually"
 
-nextStepFile: './step-05-synthesis.md'
-outputFile: '{output_folder}/scoping-report-{project_name}.md'
-featuresDir: '{output_folder}/features'
-featureTemplate: '../templates/feature-delta-template.md'
-estimationModel: '../data/estimation-model.md'
-advancedElicitationTask: '{project-root}/_bmad/core/workflows/advanced-elicitation/workflow.xml'
-partyModeWorkflow: '{project-root}/_bmad/core/workflows/party-mode/workflow.md'
+nextStepFile: "./step-05-synthesis.md"
+outputFile: "{output_folder}/scoping-report-{project_name}.md"
+featuresDir: "{output_folder}/features"
+featureTemplate: "../templates/feature-delta-template.md"
+estimationModel: "../data/estimation-model.md"
+advancedElicitationTask: "{project-root}/_bmad/core/workflows/advanced-elicitation/workflow.xml"
+partyModeWorkflow: "{project-root}/_bmad/core/workflows/party-mode/workflow.md"
 ---
 
 # Step 4: Architecture Delta & Estimation
@@ -95,9 +95,9 @@ If architecture docs are available, reference specific files, services, or patte
 
 Break the feature into sub-tasks at 0.5-day granularity:
 
-| # | Sub-Task | Days | Notes |
-|---|----------|------|-------|
-| 1 | [task] | [0.5-N] | [context] |
+| #   | Sub-Task | Days    | Notes     |
+| --- | -------- | ------- | --------- |
+| 1   | [task]   | [0.5-N] | [context] |
 
 Include spec writing time (~0.25 days per story/sub-task).
 
@@ -115,15 +115,16 @@ State the risk level and the specific triggers that drive it.
 
 Apply the estimation model:
 
-| Scenario | Days | Rationale |
-|----------|------|-----------|
-| Optimistic | [N] | Clean execution, no debug |
-| Expected | [N] | Risk-adjusted (debug risk baked in) |
-| Pessimistic | [N] | Unknowns materialize |
+| Scenario    | Days | Rationale                           |
+| ----------- | ---- | ----------------------------------- |
+| Optimistic  | [N]  | Clean execution, no debug           |
+| Expected    | [N]  | Risk-adjusted (debug risk baked in) |
+| Pessimistic | [N]  | Unknowns materialize                |
 
 #### e) Present and Confirm
 
 Present the complete analysis for this feature. Wait for user to review and adjust. Common adjustments:
+
 - "That existing service is more complex than you think" → increase estimate
 - "We already have a pattern for this" → decrease estimate
 - "This unknown is actually well-documented" → lower debug risk
@@ -140,10 +141,10 @@ After ALL features are processed:
 
 "**Architecture delta and estimation complete.**
 
-| # | Feature | Expected (days) | Range | Debug Risk |
-|---|---------|-----------------|-------|------------|
-| 1 | [name] | [N] | [opt]-[pess] | [Low/Med/High] |
-| ... | ... | ... | ... | ... |
+| #   | Feature | Expected (days) | Range        | Debug Risk     |
+| --- | ------- | --------------- | ------------ | -------------- |
+| 1   | [name]  | [N]             | [opt]-[pess] | [Low/Med/High] |
+| ... | ...     | ...             | ...          | ...            |
 
 **Total expected:** [N] days
 **Total range:** [opt]-[pess] days

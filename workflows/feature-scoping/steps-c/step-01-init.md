@@ -1,12 +1,12 @@
 ---
-name: 'step-01-init'
-description: 'Initialize the feature scoping workflow, gather inputs, and create the scoping report'
+name: "step-01-init"
+description: "Initialize the feature scoping workflow, gather inputs, and create the scoping report"
 
-nextStepFile: './step-02-triage.md'
-continueFile: './step-01b-continue.md'
-outputFile: '{output_folder}/scoping-report-{project_name}.md'
-templateFile: '../templates/scoping-report-template.md'
-featuresDir: '{output_folder}/features'
+nextStepFile: "./step-02-triage.md"
+continueFile: "./step-01b-continue.md"
+outputFile: "{output_folder}/scoping-report-{project_name}.md"
+templateFile: "../templates/scoping-report-template.md"
+featuresDir: "{output_folder}/features"
 ---
 
 # Step 1: Initialization
@@ -71,9 +71,11 @@ Look for an existing file at `{outputFile}`.
 I need a few things from you:
 
 **Required:**
+
 - Your feature list — paste it, link a file, or describe them
 
 **Optional (provide whatever you have):**
+
 - Architecture docs or codebase path
 - Client constraints (budget, timeline, team size)
 - Any existing specs or notes
@@ -81,6 +83,7 @@ I need a few things from you:
 What are we working with?"
 
 Wait for user input. Collect:
+
 - The feature list (however it arrives — Notion export, bullet points, screenshot description, file path)
 - Any optional context provided
 
@@ -90,11 +93,11 @@ Extract individual features from whatever format the user provides. Present them
 
 "**I see [N] features:**
 
-| # | Feature | Source Notes |
-|---|---------|-------------|
-| 1 | [name] | [any context from the list] |
-| 2 | [name] | ... |
-| ... | ... | ... |
+| #   | Feature | Source Notes                |
+| --- | ------- | --------------------------- |
+| 1   | [name]  | [any context from the list] |
+| 2   | [name]  | ...                         |
+| ... | ...     | ...                         |
 
 Did I capture them all correctly? Any to add or rename?"
 
@@ -105,6 +108,7 @@ Wait for confirmation. Adjust as needed.
 Summarize what context is available:
 
 "**Context available:**
+
 - Architecture docs: [yes — path / no]
 - Codebase access: [yes — path / no]
 - Client constraints: [summary / none provided]
@@ -115,6 +119,7 @@ This affects how deep the architecture delta analysis can go. [If no docs/codeba
 ### 5. Create Report and Features Directory
 
 Create the scoping report from `{templateFile}` at `{outputFile}`:
+
 - Fill in frontmatter: `date`, `user_name`, `project_name`, `total_features_input`
 - Replace `{{project_name}}`, `{{date}}`, `{{user_name}}` in the template
 

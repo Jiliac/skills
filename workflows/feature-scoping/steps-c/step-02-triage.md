@@ -1,12 +1,12 @@
 ---
-name: 'step-02-triage'
-description: 'Classify all features: scope, scope-with-assumptions, kill, or split'
+name: "step-02-triage"
+description: "Classify all features: scope, scope-with-assumptions, kill, or split"
 
-nextStepFile: './step-03-functional-scoping.md'
-outputFile: '{output_folder}/scoping-report-{project_name}.md'
-triageCriteria: '../data/triage-criteria.md'
-advancedElicitationTask: '{project-root}/_bmad/core/workflows/advanced-elicitation/workflow.xml'
-partyModeWorkflow: '{project-root}/_bmad/core/workflows/party-mode/workflow.md'
+nextStepFile: "./step-03-functional-scoping.md"
+outputFile: "{output_folder}/scoping-report-{project_name}.md"
+triageCriteria: "../data/triage-criteria.md"
+advancedElicitationTask: "{project-root}/_bmad/core/workflows/advanced-elicitation/workflow.xml"
+partyModeWorkflow: "{project-root}/_bmad/core/workflows/party-mode/workflow.md"
 ---
 
 # Step 2: Triage
@@ -67,6 +67,7 @@ Read `{triageCriteria}` to have the decision framework ready. Read `{outputFile}
 "**Time to triage.** We'll go through each feature and decide: scope it, scope it with assumptions, kill it, or split it. I'll ask questions to surface issues — push back if you disagree.
 
 **Classifications:**
+
 - **Scope** — clear and ready to scope
 - **Scope with assumptions** — unclear but we can proceed by stating assumptions
 - **Kill** — not worth building, document why
@@ -100,12 +101,13 @@ After all features are classified, present the complete triage table:
 
 "**Triage complete.** Here's the summary:
 
-| # | Feature | Classification | Assumptions | Dependencies | Notes |
-|---|---------|---------------|-------------|--------------|-------|
-| 1 | [name] | [classification] | [if any] | [if any] | [if any] |
-| ... | ... | ... | ... | ... | ... |
+| #   | Feature | Classification   | Assumptions | Dependencies | Notes    |
+| --- | ------- | ---------------- | ----------- | ------------ | -------- |
+| 1   | [name]  | [classification] | [if any]    | [if any]     | [if any] |
+| ... | ...     | ...              | ...         | ...          | ...      |
 
 **Counts:**
+
 - Scoped: [N]
 - Scoped with assumptions: [N]
 - Killed: [N]

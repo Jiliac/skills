@@ -1,9 +1,9 @@
 ---
-name: 'step-06-completion'
-description: 'Final review, polish, and mark the scoping report as complete'
+name: "step-06-completion"
+description: "Final review, polish, and mark the scoping report as complete"
 
-outputFile: '{output_folder}/scoping-report-{project_name}.md'
-featuresDir: '{output_folder}/features'
+outputFile: "{output_folder}/scoping-report-{project_name}.md"
+featuresDir: "{output_folder}/features"
 ---
 
 # Step 6: Completion
@@ -54,6 +54,7 @@ To perform a final polish pass on the main report, verify all features are accou
 Read `{outputFile}` completely. Read all files in `{featuresDir}`.
 
 Verify:
+
 - Every feature from the triage has a disposition (scope/kill/split)
 - Every scoped feature has FRs in the report
 - Every scoped feature has a per-feature file in {featuresDir}
@@ -65,6 +66,7 @@ If any discrepancies found, report them to the user.
 ### 2. Polish Pass
 
 Review the main report for:
+
 - Consistent formatting across sections
 - No orphaned references to killed or split features
 - Triage, FR, and synthesis sections flow logically
@@ -83,6 +85,7 @@ Present to the user:
 **Per-feature files:** `{featuresDir}/` ([N] files)
 
 **Summary:**
+
 - Features input: [N]
 - Features scoped: [N]
 - Features killed: [N]
@@ -96,6 +99,7 @@ The report is ready for your client meeting. Per-feature architecture deltas and
 ### 4. Mark Complete
 
 Update `{outputFile}` frontmatter:
+
 - Set `status: "COMPLETE"`
 - Ensure `stepsCompleted` includes `'step-06-completion'`
 - Set `lastStep: 'step-06-completion'`

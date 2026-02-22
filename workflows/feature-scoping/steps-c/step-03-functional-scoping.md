@@ -1,11 +1,11 @@
 ---
-name: 'step-03-functional-scoping'
-description: 'Define functional requirements and boundaries for all surviving features'
+name: "step-03-functional-scoping"
+description: "Define functional requirements and boundaries for all surviving features"
 
-nextStepFile: './step-04-architecture-estimation.md'
-outputFile: '{output_folder}/scoping-report-{project_name}.md'
-advancedElicitationTask: '{project-root}/_bmad/core/workflows/advanced-elicitation/workflow.xml'
-partyModeWorkflow: '{project-root}/_bmad/core/workflows/party-mode/workflow.md'
+nextStepFile: "./step-04-architecture-estimation.md"
+outputFile: "{output_folder}/scoping-report-{project_name}.md"
+advancedElicitationTask: "{project-root}/_bmad/core/workflows/advanced-elicitation/workflow.xml"
+partyModeWorkflow: "{project-root}/_bmad/core/workflows/party-mode/workflow.md"
 ---
 
 # Step 3: Functional Scoping
@@ -61,6 +61,7 @@ To define functional requirements and explicit boundaries for every surviving fe
 Read `{outputFile}` to get the triage summary. Identify all features classified as "scope" or "scope-with-assumptions."
 
 "**Moving to functional scoping.** We have [N] features to define. For each one, we'll nail down:
+
 - **Purpose** — one sentence, what problem does it solve
 - **FRs** — 3-8 functional requirements, specific and testable
 - **Boundaries** — what's explicitly NOT included
@@ -76,17 +77,20 @@ For each surviving feature, collaboratively define:
 One sentence: what problem does this solve, for which user?
 
 **b) Functional Requirements (3-8)**
+
 - Each FR should be specific and testable
 - Start with a verb: "Allow users to...", "Display...", "Validate...", "Send..."
 - Avoid vague requirements — "easy to use" is not an FR
 - For "scope-with-assumptions" features, explicitly tie FRs to the stated assumptions
 
 **c) Boundaries (what's NOT included)**
+
 - State what this feature explicitly does NOT do in v1
 - This prevents scope creep during implementation
 - Example: "Does NOT include bulk upload — single item only"
 
 **d) Dependencies**
+
 - Other features this one depends on
 - External systems or APIs involved
 
@@ -98,10 +102,10 @@ After all features are scoped, present a compact summary:
 
 "**Functional scoping complete.**
 
-| # | Feature | FRs | Boundaries | Dependencies |
-|---|---------|-----|------------|-------------|
-| 1 | [name] | [count] | [count] | [list] |
-| ... | ... | ... | ... | ... |
+| #   | Feature | FRs     | Boundaries | Dependencies |
+| --- | ------- | ------- | ---------- | ------------ |
+| 1   | [name]  | [count] | [count]    | [list]       |
+| ... | ...     | ...     | ...        | ...          |
 
 Total: [N] features scoped with [total FRs] functional requirements.
 

@@ -316,10 +316,12 @@ feature-scoping/
 ### Step 01 Build Complete
 
 **Created:**
+
 - steps-c/step-01-init.md
 - steps-c/step-01b-continue.md
 
 **Step Configuration:**
+
 - Type: Init (Continuable) + Continuation handler
 - Outputs to: Creates scoping report from template, creates features/ directory
 - Next Step: step-02-triage.md
@@ -327,9 +329,11 @@ feature-scoping/
 ### Step 02 Build Complete
 
 **Created:**
+
 - steps-c/step-02-triage.md
 
 **Step Configuration:**
+
 - Type: Middle (Standard) — A/P/C menu
 - Instruction style: Intent-based, collaborative
 - Loads: data/triage-criteria.md
@@ -339,9 +343,11 @@ feature-scoping/
 ### Step 03 Build Complete
 
 **Created:**
+
 - steps-c/step-03-functional-scoping.md
 
 **Step Configuration:**
+
 - Type: Middle (Standard) — A/P/C menu
 - Instruction style: Intent-based, collaborative
 - Outputs to: Appends FR sections to main report
@@ -350,9 +356,11 @@ feature-scoping/
 ### Step 04 Build Complete
 
 **Created:**
+
 - steps-c/step-04-architecture-estimation.md
 
 **Step Configuration:**
+
 - Type: Middle (Standard) with per-feature LOOP — A/P/C menu at end only
 - Instruction style: Prescriptive
 - Loads: data/estimation-model.md, templates/feature-delta-template.md
@@ -362,9 +370,11 @@ feature-scoping/
 ### Step 05 Build Complete
 
 **Created:**
+
 - steps-c/step-05-synthesis.md
 
 **Step Configuration:**
+
 - Type: Middle (Simple) — C only menu
 - Instruction style: Prescriptive, compile from existing data
 - Reads: All per-feature files from features/ directory
@@ -374,9 +384,11 @@ feature-scoping/
 ### Step 06 Build Complete
 
 **Created:**
+
 - steps-c/step-06-completion.md
 
 **Step Configuration:**
+
 - Type: Final — no menu, no next step
 - Outputs to: Updates main report frontmatter to COMPLETE
 - Next Step: None (final step)
