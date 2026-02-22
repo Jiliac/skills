@@ -11,6 +11,8 @@ A personal collection of Claude Code skills and workflows, built from curiosity 
 | [creator-platform-strategy](skills/creator-platform-strategy/SKILL.md) | Platform selection and cross-platform strategy for content creators. YouTube, Twitch, TikTok, and more.           |
 | [documenting-codebase](skills/documenting-codebase/SKILL.md)           | Generate a full docs/ folder from source code: architecture overview + 8-12 area docs, written in parallel.       |
 | [effect-reviewer](skills/effect-reviewer/SKILL.md)                     | Review TypeScript code for idiomatic Effect-ts usage and monorepo conventions.                                    |
+| [performance-coaching](skills/performance-coaching/SKILL.md)           | Direct, action-oriented performance coaching for founders. Accountability, avoidance patterns, and the knowing-doing gap. |
+| [self-exploration](skills/self-exploration/SKILL.md)                   | Guide structured self-exploration sessions using ACT, Focusing, and IFS. Values, patterns, and internal conflicts. |
 | [short-form-video](skills/short-form-video/SKILL.md)                   | Write production-ready annotated scripts for short-form video (Shorts, TikTok, Reels). Hooks, pacing, and edits.  |
 | [social-content](skills/social-content/SKILL.md)                       | Create, optimize, and schedule social media content across platforms. Argument frameworks and algorithm insights. |
 | [value-proposition-canvas](skills/value-proposition-canvas/SKILL.md)   | Create Value Proposition Canvases using the Osterwalder/Strategyzer methodology. Product-market fit mapping.      |
