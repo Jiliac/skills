@@ -16,6 +16,7 @@ A personal collection of Claude Code skills and workflows, built from curiosity 
 
 | Skill                                                        | Description                                                                                                               |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
+| [eft-couples](skills/eft-couples/SKILL.md)                   | Guide structured EFT sessions for couples. Cycle de-escalation, attachment exploration, and emotional bonding.            |
 | [life-direction](skills/life-direction/SKILL.md)             | Guide structured direction-setting sessions. Translate self-knowledge into a committed direction through experiments.     |
 | [performance-coaching](skills/performance-coaching/SKILL.md) | Direct, action-oriented performance coaching for founders. Accountability, avoidance patterns, and the knowing-doing gap. |
 | [self-exploration](skills/self-exploration/SKILL.md)         | Guide structured self-exploration sessions using ACT, Focusing, and IFS. Values, patterns, and internal conflicts.        |
