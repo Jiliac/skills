@@ -2,11 +2,11 @@
 
 ## The Three-Phase Model
 
-| Phase | Skill              | Core Question           | Input                           | Output                              |
-| ----- | ------------------ | ----------------------- | ------------------------------- | ----------------------------------- |
-| 1     | Self-Exploration   | Who am I?               | Life experience, patterns       | Personal operating manual           |
-| 2     | Life Direction     | What do I build?        | The operating manual            | Direction Architecture Document     |
-| 3     | Performance Coach  | How do I execute?       | The direction document          | Accountability, action, results     |
+| Phase | Skill             | Core Question     | Input                     | Output                          |
+| ----- | ----------------- | ----------------- | ------------------------- | ------------------------------- |
+| 1     | Self-Exploration  | Who am I?         | Life experience, patterns | Personal operating manual       |
+| 2     | Life Direction    | What do I build?  | The operating manual      | Direction Architecture Document |
+| 3     | Performance Coach | How do I execute? | The direction document    | Accountability, action, results |
 
 ## When to Redirect to Self-Exploration (Phase 1)
 

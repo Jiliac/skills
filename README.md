@@ -42,10 +42,10 @@ A personal collection of Claude Code skills and workflows, built from curiosity 
 
 | Skill                                                                            | Description                                                                                                                            |
 | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| [harris-thriller-planner](skills/harris-thriller-planner/SKILL.md)               | Map historical events onto thriller structure using the Robert Harris method. POV selection, ending-first, beat mapping.               |
-| [historical-authenticity-review](skills/historical-authenticity-review/SKILL.md) | Final authenticity review for historical thrillers. Dialogue check and anachronism sweep, balancing urgency with accuracy.             |
 | [historical-fiction-research](skills/historical-fiction-research/SKILL.md)       | Research protocol for historical fiction prioritizing sensory texture over academic facts. Source hierarchy and anachronism detection. |
+| [harris-thriller-planner](skills/harris-thriller-planner/SKILL.md)               | Map historical events onto thriller structure using the Robert Harris method. POV selection, ending-first, beat mapping.               |
 | [historical-scene-drafting](skills/historical-scene-drafting/SKILL.md)           | Draft "men in rooms" political scenes with period texture. Dialogue-heavy scenes with sensory grounding and power dynamics.            |
+| [historical-authenticity-review](skills/historical-authenticity-review/SKILL.md) | Final authenticity review for historical thrillers. Dialogue check and anachronism sweep, balancing urgency with accuracy.             |
 | [thriller-revision](skills/thriller-revision/SKILL.md)                           | Revise historical fiction manuscripts for thriller pacing. Four surgical passes: modern analog, exposition, pacing, structure.         |
 
 ## Workflows

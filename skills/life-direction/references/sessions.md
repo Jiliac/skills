@@ -33,7 +33,7 @@
 3. **Workview and Lifeview (Designing Your Life).** Two 500-word freewriting exercises:
    - Workview: "What is work for? Why do you work? What does good work feel like?"
    - Lifeview: "What makes life good? What gives it meaning? How do work and life connect?"
-   - Sensory specificity: describe what a good day *feels* like, not what it *achieves*.
+   - Sensory specificity: describe what a good day _feels_ like, not what it _achieves_.
 
 **Output:** One-page means map. Schema flags with implementation intentions. Workview and lifeview drafts.
 

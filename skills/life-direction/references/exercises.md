@@ -20,11 +20,11 @@ Start from what you have, not what you wish you had. Sarasvathy's research on ex
 
 **Three categories:**
 
-| Category       | Prompt                                                                  | Examples                                                     |
-| -------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------ |
-| Who I am       | Identity, genuine values (from Phase 1), personality, what energizes me | "I'm a systems builder who craves intellectual challenge"     |
-| What I know    | Skills, domain expertise, reputation, unique knowledge combinations     | "AI systems, security research, 1100+ citations, French/English/Chinese" |
-| Whom I know    | People, communities, weak ties, potential collaborators                 | "Co-founder François, KAIST network, AI safety community"    |
+| Category    | Prompt                                                                  | Examples                                                                 |
+| ----------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| Who I am    | Identity, genuine values (from Phase 1), personality, what energizes me | "I'm a systems builder who craves intellectual challenge"                |
+| What I know | Skills, domain expertise, reputation, unique knowledge combinations     | "AI systems, security research, 1100+ citations, French/English/Chinese" |
+| Whom I know | People, communities, weak ties, potential collaborators                 | "Co-founder François, KAIST network, AI safety community"                |
 
 **For each item ask:** Am I using this, ignoring this, or actively avoiding this? Ignored and avoided assets are the richest direction-generators.
 
@@ -125,7 +125,7 @@ Write a letter to yourself 20 years from now describing:
 
 **Why 20 years, not 1 year:** Hershfield's research shows that farther temporal horizons produce stronger motivational effects for directional framing. The letter activates future-self continuity, which improves long-term decision quality.
 
-**Key instruction:** Write from the body, not the résumé. Describe how the life *feels*, not what it *achieved*.
+**Key instruction:** Write from the body, not the résumé. Describe how the life _feels_, not what it _achieved_.
 
 ---
 
@@ -137,7 +137,7 @@ A 2-week, low-cost, reversible test of a direction's core assumption.
 
 | Field                  | Entry                                              |
 | ---------------------- | -------------------------------------------------- |
-| Direction being tested | [Which Odyssey Plan or narrowed direction]          |
+| Direction being tested | [Which Odyssey Plan or narrowed direction]         |
 | Core assumption        | [What must be true for this to work]               |
 | Experiment             | [Specific action over 2 weeks]                     |
 | What I'll learn        | [What the result tells me about the assumption]    |
@@ -145,6 +145,7 @@ A 2-week, low-cost, reversible test of a direction's core assumption.
 | Go/no-go signal        | [What result would confirm vs. disconfirm]         |
 
 **Examples:**
+
 - Direction: AI consulting → Experiment: Conduct 5 discovery calls with potential clients this week
 - Direction: Writing/teaching → Experiment: Publish 3 posts and measure engagement + felt experience
 - Direction: Product company → Experiment: Build a landing page and run $100 in ads to test demand
@@ -158,6 +159,7 @@ One sentence. A 12-year-old could understand it. No jargon, no qualifications.
 **Structure:** "For the next 12 months, I am [doing what] [for whom] [because it serves my value of X]."
 
 **Examples:**
+
 - "For the next 12 months, I am building an AI consulting practice serving mid-market companies because it fully engages my technical ability and lets me solve real problems."
 - "For the next 12 months, I am writing and teaching about AI systems because I want to be known for my thinking and build an intellectual community."
 
@@ -171,12 +173,12 @@ Effectuation principle: decide based on what you can afford to lose, not what yo
 
 **For the 12-month committed experiment, define:**
 
-| Dimension        | Maximum affordable loss                                   |
-| ---------------- | --------------------------------------------------------- |
-| Time             | [How many months can I invest before needing income?]     |
-| Money            | [How much savings/runway can I allocate?]                 |
-| Reputation       | [What professional risk am I taking? Is it recoverable?]  |
-| Opportunity cost | [What am I saying no to? Can I return to it later?]       |
-| Relationships    | [Does this direction strain any key relationships?]       |
+| Dimension        | Maximum affordable loss                                  |
+| ---------------- | -------------------------------------------------------- |
+| Time             | [How many months can I invest before needing income?]    |
+| Money            | [How much savings/runway can I allocate?]                |
+| Reputation       | [What professional risk am I taking? Is it recoverable?] |
+| Opportunity cost | [What am I saying no to? Can I return to it later?]      |
+| Relationships    | [Does this direction strain any key relationships?]      |
 
 If the affordable loss for any dimension exceeds what the direction requires, proceed. If not, either reduce the experiment's scope or choose a less costly direction.
