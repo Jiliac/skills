@@ -43,10 +43,15 @@ A personal collection of Claude Code skills and workflows, built from curiosity 
 | Skill                                                                            | Description                                                                                                                            |
 | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | [historical-fiction-research](skills/historical-fiction-research/SKILL.md)       | Research protocol for historical fiction prioritizing sensory texture over academic facts. Source hierarchy and anachronism detection. |
-| [harris-thriller-planner](skills/harris-thriller-planner/SKILL.md)               | Map historical events onto thriller structure using the Robert Harris method. POV selection, ending-first, beat mapping.               |
+| [harris-thriller-planner](skills/harris-thriller-planner/SKILL.md)               | Map historical events onto thriller structure. POV selection, ending-first, act structure (Harris ticking-clock or Garrett business-building), beat mapping. |
 | [historical-scene-drafting](skills/historical-scene-drafting/SKILL.md)           | Draft "men in rooms" political scenes with period texture. Dialogue-heavy scenes with sensory grounding and power dynamics.            |
 | [historical-authenticity-review](skills/historical-authenticity-review/SKILL.md) | Final authenticity review for historical thrillers. Dialogue check and anachronism sweep, balancing urgency with accuracy.             |
 | [thriller-revision](skills/thriller-revision/SKILL.md)                           | Revise historical fiction manuscripts for thriller pacing. Four surgical passes: modern analog, exposition, pacing, structure.         |
+| [builder-arc-planner](skills/builder-arc-planner/SKILL.md)                       | Plan civilization-builder and progression fiction. 8-beat builder structure, series architecture, and power-creep prevention.          |
+| [chuanyue-narrative-craft](skills/chuanyue-narrative-craft/SKILL.md)             | Craft transmigration/isekai fiction with constrained knowledge deployment. Padway Ladder, dual-knowledge systems, failure modes.       |
+| [cross-cultural-scene-craft](skills/cross-cultural-scene-craft/SKILL.md)         | Write cross-cultural and fish-out-of-water scenes. 9 scene types, language-gap techniques, orientation pacing, diasporic identity.     |
+| [epidemic-thriller-craft](skills/epidemic-thriller-craft/SKILL.md)               | Use epidemic outbreaks as thriller engines. Rosenberg's 4-act dramaturgy, medical scene types, pre-modern response, post-COVID lens.   |
+| [novel-bible](skills/novel-bible/SKILL.md)                                       | Build and maintain a structured novel bible: character profiles, world entries, voice rules, continuity tracking for AI-assisted drafting. |
 
 ## Workflows
 
