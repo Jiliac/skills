@@ -27,6 +27,7 @@ A personal collection of Claude Code skills and workflows, built from curiosity 
 | ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
 | [documenting-codebase](skills/documenting-codebase/SKILL.md) | Generate a full docs/ folder from source code: architecture overview + 8-12 area docs, written in parallel. |
 | [effect-reviewer](skills/effect-reviewer/SKILL.md)           | Review TypeScript code for idiomatic Effect-ts usage and monorepo conventions.                              |
+| [handle-coderabbit](skills/handle-coderabbit/SKILL.md)       | Triage CodeRabbit PR review comments: verify each finding, apply valid fixes, post reasoned replies to skips via `gh`. |
 
 ### Content & Creator
 
