@@ -1,11 +1,13 @@
 ---
 name: html-artifacts
-description: Produce single-file HTML artifacts instead of markdown when the medium matters — side-by-side option comparisons, annotated diffs, module/architecture maps, animation sandboxes, design-token swatches, drag-and-drop boards, post-mortem timelines, clickable flows, and any "document you'd actually read" instead of skim. Use when about to produce a long markdown response whose content has visual, spatial, or interactive shape. Source: https://thariqs.github.io/html-effectiveness
+description: Produce single-file HTML artifacts instead of markdown when content has visual, spatial, or interactive shape — comparisons, diagrams, timelines, animation sandboxes, clickable flows. Use before writing a long markdown response whose content would skim better as a "document you'd actually read".
 ---
 
 # HTML Artifacts
 
 Produce a self-contained `.html` file when content has shape — comparisons, motion, spatial layout, or interaction — instead of flattening it into linear markdown.
+
+Source: https://thariqs.github.io/html-effectiveness
 
 The core claim: each HTML artifact trades a document the user would skim for one they would actually read.
 
