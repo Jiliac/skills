@@ -8,6 +8,7 @@ A personal collection of Claude Code skills and workflows, built from curiosity 
 
 | Skill                                                                | Description                                                                                                       |
 | -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| [boardroom-storm-research](skills/boardroom-storm-research/SKILL.md)   | Decision-grade, multi-perspective research via Boardroom STORM (Stanford STORM adaptation). Diligence memos, market maps, theses, board memos. |
 | [cold-email](skills/cold-email/SKILL.md)                             | Write B2B cold emails and follow-up sequences optimized for reply rates. Based on data from 85M+ analyzed emails. |
 | [deep-research-prompt](skills/deep-research-prompt/SKILL.md)         | Write structured prompts for agentic deep research tools (OpenAI, Perplexity, Gemini, Manus AI).                  |
 | [value-proposition-canvas](skills/value-proposition-canvas/SKILL.md) | Create Value Proposition Canvases using the Osterwalder/Strategyzer methodology. Product-market fit mapping.      |
